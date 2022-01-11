@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <meta charset="utf-8">
+    <title>Heinemann & Gonçalves advogados associados</title>
+  </head>
+  <body>
+    <h1>Mozilla is cool</h1>
+    <img src="imagens/firefox-icon.png" alt="minha página teste">
+    
+    <p>Hello World!</p>
+    
+    <ul>
+      <li>A ordem</li>
+      <li>Importa</li>
+      <li>Sim</li>
+    </ul>
+    
+    <ol>
+      <li>A ordem</li>
+      <li>Não</li>
+      <li>Importa</li>
+    </ol>
+    
+    <p>I'm trying to learn programming with Mozilla and <a href="https://www.github.com">GitHub</a></p> 
+  </body>
+</html>
+                                             
