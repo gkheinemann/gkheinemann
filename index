@@ -11,15 +11,15 @@
     <p>Hello World!</p>
     
     <ul>
-      <li>A ordem</li>
-      <li>Importa</li>
-      <li>Sim</li>
+     <li>A ordem</li>
+     <li>Não</li>
+     <li>Importa</li>
     </ul>
     
     <ol>
-      <li>A ordem</li>
-      <li>Não</li>
-      <li>Importa</li>
+     <li>A ordem</li>
+     <li>Importa</li>
+     <li>Sim</li>
     </ol>
     
     <p>I'm trying to learn programming with Mozilla and <a href="https://www.github.com">GitHub</a></p> 
